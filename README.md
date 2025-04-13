@@ -1,2 +1,2 @@
 # Grik-Fitness
-A Gym website
+A Gym website made using HTML , CSS and JAVASCRIPT to plan your fitness journey
